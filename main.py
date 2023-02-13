@@ -1,7 +1,7 @@
 int_list = [1,2,3,4,5,7,8,9]
 print(int_list)
 
-a = 2
+a = 5
 b = 33
 if b > a:
     print("b больше, чем a")
